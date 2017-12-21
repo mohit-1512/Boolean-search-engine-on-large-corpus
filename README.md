@@ -1,5 +1,4 @@
 # Boolean search engine on large corpus
---------------------------------------
 
 Language Used: Java
 -------------------
